@@ -1,40 +1,23 @@
 {
  "location": "langkawi",
- "fetched_at": "2026-11-14T13:01:37+00:00",
+ "fetched_at": "2026-11-22T12:30:48+00:00",
  "stats": {
   "listed": 972,
   "candidates": 22,
-  "probed": 13,
+  "probed": 2,
   "in_budget": 9,
-  "stretch": 3,
+  "stretch": 2,
   "too_cheap": 0,
-  "too_pricey": 8,
+  "too_pricey": 9,
   "never_priced": 2
  },
  "hotels": [
-  {
-   "key": "g298283-d2626211",
-   "name": "Ambong-Ambong",
-   "type": "Hotel",
-   "rating": 4.9,
-   "reviews": 1514,
-   "url": "https://www.tripadvisor.com/Hotel_Review-g2053325-d2626211-Reviews-Ambong_Ambong-Pantai_Tengah_Langkawi_Langkawi_District_Kedah.html",
-   "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/7b/1b/4d/caption.jpg",
-   "lat": 6.270037,
-   "lng": 99.73447,
-   "labels": [
-    "Breakfast included"
-   ],
-   "estimate_nightly": 19722,
-   "estimate_source": "observed",
-   "band": "stretch"
-  },
   {
    "key": "g298283-d25008602",
    "name": "The RIYAZ Lavanya Langkawi",
    "type": "Hotel",
    "rating": 4.8,
-   "reviews": 733,
+   "reviews": 734,
    "url": "https://www.tripadvisor.com/Hotel_Review-g298283-d25008602-Reviews-The_RIYAZ_Lavanya_Langkawi-Langkawi_Langkawi_District_Kedah.html",
    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/20/93/f5/the-riyaz-lavanya-langkawi.jpg",
    "lat": 6.276986,
@@ -42,7 +25,7 @@
    "labels": [
     "Breakfast included"
    ],
-   "estimate_nightly": 9715,
+   "estimate_nightly": 9246,
    "estimate_source": "observed",
    "band": "in_budget"
   },
@@ -51,7 +34,7 @@
    "name": "Aloft by Marriott Langkawi Pantai Tengah",
    "type": "Hotel",
    "rating": 4.7,
-   "reviews": 1333,
+   "reviews": 1335,
    "url": "https://www.tripadvisor.com/Hotel_Review-g298283-d15213191-Reviews-Aloft_by_Marriott_Langkawi_Pantai_Tengah-Langkawi_Langkawi_District_Kedah.html",
    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/fe/2a/70/porte-cochere.jpg",
    "lat": 6.272734,
@@ -59,7 +42,7 @@
    "labels": [
     "Breakfast included"
    ],
-   "estimate_nightly": 15570,
+   "estimate_nightly": 15710,
    "estimate_source": "observed",
    "band": "stretch"
   },
@@ -68,7 +51,7 @@
    "name": "Tanjung Rhu Resort Langkawi",
    "type": "Hotel",
    "rating": 4.5,
-   "reviews": 2297,
+   "reviews": 2298,
    "url": "https://www.tripadvisor.com/Hotel_Review-g3239580-d315644-Reviews-Tanjung_Rhu_Resort_Langkawi-Ayer_Hangat_Langkawi_Langkawi_District_Kedah.html",
    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/7d/60/6c/tanjung-rhu-resort.jpg",
    "lat": 6.454509,
@@ -77,7 +60,7 @@
     "All inclusive",
     "Breakfast included"
    ],
-   "estimate_nightly": 16670,
+   "estimate_nightly": 19277,
    "estimate_source": "observed",
    "band": "stretch"
   },
@@ -95,7 +78,7 @@
    "probe_nightly": 7290,
    "probed_at": "2026-11-14T13:01:20+00:00",
    "estimate_nightly": 7290,
-   "estimate_source": "probe",
+   "estimate_source": "observed",
    "band": "in_budget"
   },
   {
@@ -111,24 +94,7 @@
    "labels": [],
    "probe_nightly": 9080,
    "probed_at": "2026-11-14T13:01:20+00:00",
-   "estimate_nightly": 9080,
-   "estimate_source": "probe",
-   "band": "in_budget"
-  },
-  {
-   "key": "g298283-d23283788",
-   "name": "Mercure Langkawi Pantai Cenang",
-   "type": "Hotel",
-   "rating": 4.6,
-   "reviews": 372,
-   "url": "https://www.tripadvisor.com/Hotel_Review-g298283-d23283788-Reviews-Mercure_Langkawi_Pantai_Cenang-Langkawi_Langkawi_District_Kedah.html",
-   "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/7b/28/75/hotel-view-at-night.jpg",
-   "lat": 6.290885,
-   "lng": 99.72927,
-   "labels": [
-    "Breakfast included"
-   ],
-   "estimate_nightly": 11676,
+   "estimate_nightly": 9054,
    "estimate_source": "observed",
    "band": "in_budget"
   },
@@ -137,7 +103,7 @@
    "name": "Wings by Croske Resort Langkawi",
    "type": "Hotel",
    "rating": 4.5,
-   "reviews": 623,
+   "reviews": 626,
    "url": "https://www.tripadvisor.com/Hotel_Review-g298283-d6395353-Reviews-Wings_by_Croske_Resort_Langkawi-Langkawi_Langkawi_District_Kedah.html",
    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/96/3c/2a/wings-by-croske-resort.jpg",
    "lat": 6.340403,
@@ -145,7 +111,7 @@
    "labels": [
     "Breakfast included"
    ],
-   "estimate_nightly": 5297,
+   "estimate_nightly": 6128,
    "estimate_source": "observed",
    "band": "in_budget"
   },
@@ -154,15 +120,32 @@
    "name": "The Smith House",
    "type": "Hotel",
    "rating": 4.6,
-   "reviews": 319,
+   "reviews": 321,
    "url": "https://www.tripadvisor.com/Hotel_Review-g2699668-d10788510-Reviews-The_Smith_House-Padang_Mat_Sirat_Langkawi_Langkawi_District_Kedah.html",
-   "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/05/76/06/rooftop-swimming-pool.jpg",
+   "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/cd/b6/4a/junior-smith-suite.jpg",
    "lat": 6.350211,
    "lng": 99.73075,
    "labels": [
     "Breakfast included"
    ],
-   "estimate_nightly": 7203,
+   "estimate_nightly": 7019,
+   "estimate_source": "observed",
+   "band": "in_budget"
+  },
+  {
+   "key": "g298283-d23283788",
+   "name": "Mercure Langkawi Pantai Cenang",
+   "type": "Hotel",
+   "rating": 4.5,
+   "reviews": 376,
+   "url": "https://www.tripadvisor.com/Hotel_Review-g298283-d23283788-Reviews-Mercure_Langkawi_Pantai_Cenang-Langkawi_Langkawi_District_Kedah.html",
+   "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/7b/28/75/hotel-view-at-night.jpg",
+   "lat": 6.290885,
+   "lng": 99.72927,
+   "labels": [
+    "Breakfast included"
+   ],
+   "estimate_nightly": 13530,
    "estimate_source": "observed",
    "band": "in_budget"
   },
@@ -171,13 +154,13 @@
    "name": "Rebak Island Resort & Marina",
    "type": "Resort",
    "rating": 4.3,
-   "reviews": 2805,
+   "reviews": 2808,
    "url": "https://www.tripadvisor.com/Hotel_Review-g298283-d557775-Reviews-Rebak_Island_Resort_Marina-Langkawi_Langkawi_District_Kedah.html",
    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/7d/c1/54/rebak-island-resort-marina.jpg",
    "lat": 6.294135,
    "lng": 99.70044,
    "labels": [],
-   "estimate_nightly": 14246,
+   "estimate_nightly": 12698,
    "estimate_source": "observed",
    "band": "in_budget"
   },
@@ -194,8 +177,8 @@
    "labels": [],
    "probe_nightly": 6704,
    "probed_at": "2026-11-14T13:01:33+00:00",
-   "estimate_nightly": 6704,
-   "estimate_source": "probe",
+   "estimate_nightly": 4824,
+   "estimate_source": "observed",
    "band": "in_budget"
   },
   {
@@ -211,8 +194,8 @@
    "labels": [],
    "probe_nightly": 4239,
    "probed_at": "2026-11-14T13:01:36+00:00",
-   "estimate_nightly": 4239,
-   "estimate_source": "probe",
+   "estimate_nightly": 4584,
+   "estimate_source": "observed",
    "band": "in_budget"
   }
  ],
@@ -222,7 +205,7 @@
    "name": "Ambong Pool Villas Langkawi",
    "type": "Hotel",
    "rating": 5.0,
-   "reviews": 822,
+   "reviews": 824,
    "url": "https://www.tripadvisor.com/Hotel_Review-g2053325-d13004862-Reviews-Ambong_Pool_Villas_Langkawi-Pantai_Tengah_Langkawi_Langkawi_District_Kedah.html",
    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/41/c2/01/caption.jpg",
    "lat": 6.268353,
@@ -241,7 +224,7 @@
    "name": "Ambong-Ambong",
    "type": "Hotel",
    "rating": 4.9,
-   "reviews": 1514,
+   "reviews": 1515,
    "url": "https://www.tripadvisor.com/Hotel_Review-g2053325-d2626211-Reviews-Ambong_Ambong-Pantai_Tengah_Langkawi_Langkawi_District_Kedah.html",
    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/7b/1b/4d/caption.jpg",
    "lat": 6.270037,
@@ -249,16 +232,16 @@
    "labels": [
     "Breakfast included"
    ],
-   "estimate_nightly": 19722,
+   "estimate_nightly": 21833,
    "estimate_source": "observed",
-   "band": "stretch"
+   "band": "too_pricey"
   },
   {
    "key": "g298283-d1878415",
    "name": "The Danna Langkawi Resort & Beach Villas",
    "type": "Hotel",
    "rating": 4.8,
-   "reviews": 5648,
+   "reviews": 5653,
    "url": "https://www.tripadvisor.com/Hotel_Review-g6384767-d1878415-Reviews-The_Danna_Langkawi_Resort_Beach_Villas-Pantai_Kok_Langkawi_Langkawi_District_Kedah.html",
    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/67/28/d1/the-danna-langkawi-a.jpg",
    "lat": 6.367748,
@@ -277,7 +260,7 @@
    "name": "Casa del Mar, Langkawi",
    "type": "Hotel",
    "rating": 4.8,
-   "reviews": 3603,
+   "reviews": 3604,
    "url": "https://www.tripadvisor.com/Hotel_Review-g1096282-d307707-Reviews-Casa_del_Mar_Langkawi-Pantai_Cenang_Langkawi_Langkawi_District_Kedah.html",
    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/0c/63/37/casa-del-mar-langkawi.jpg",
    "lat": 6.296594,
@@ -286,7 +269,7 @@
     "Breakfast included"
    ],
    "probe_nightly": null,
-   "probed_at": "2026-11-14T13:01:32+00:00",
+   "probed_at": "2026-11-22T12:30:47+00:00",
    "band": null
   },
   {
@@ -294,7 +277,7 @@
    "name": "The Datai Langkawi",
    "type": "Hotel",
    "rating": 4.8,
-   "reviews": 3395,
+   "reviews": 3396,
    "url": "https://www.tripadvisor.com/Hotel_Review-g10838083-d302014-Reviews-The_Datai_Langkawi-Datai_Langkawi_Langkawi_District_Kedah.html",
    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/35/81/f6/the-datai-langkawi-aerial.jpg",
    "lat": 6.422406,
@@ -330,7 +313,7 @@
    "name": "Four Seasons Resort Langkawi, Malaysia",
    "type": "Hotel",
    "rating": 4.7,
-   "reviews": 2119,
+   "reviews": 2118,
    "url": "https://www.tripadvisor.com/Hotel_Review-g10838062-d311053-Reviews-Four_Seasons_Resort_Langkawi_Malaysia-Tanjung_Rhu_Langkawi_Langkawi_District_Kedah.html",
    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/8d/1b/29/four-seasons-resort-langkawi.jpg",
    "lat": 6.446388,
@@ -347,7 +330,7 @@
    "name": "The RIYAZ Lavanya Langkawi",
    "type": "Hotel",
    "rating": 4.8,
-   "reviews": 733,
+   "reviews": 734,
    "url": "https://www.tripadvisor.com/Hotel_Review-g298283-d25008602-Reviews-The_RIYAZ_Lavanya_Langkawi-Langkawi_Langkawi_District_Kedah.html",
    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/20/93/f5/the-riyaz-lavanya-langkawi.jpg",
    "lat": 6.276986,
@@ -355,7 +338,7 @@
    "labels": [
     "Breakfast included"
    ],
-   "estimate_nightly": 9715,
+   "estimate_nightly": 9246,
    "estimate_source": "observed",
    "band": "in_budget"
   },
@@ -364,7 +347,7 @@
    "name": "Aloft by Marriott Langkawi Pantai Tengah",
    "type": "Hotel",
    "rating": 4.7,
-   "reviews": 1333,
+   "reviews": 1335,
    "url": "https://www.tripadvisor.com/Hotel_Review-g298283-d15213191-Reviews-Aloft_by_Marriott_Langkawi_Pantai_Tengah-Langkawi_Langkawi_District_Kedah.html",
    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/fe/2a/70/porte-cochere.jpg",
    "lat": 6.272734,
@@ -372,7 +355,7 @@
    "labels": [
     "Breakfast included"
    ],
-   "estimate_nightly": 15570,
+   "estimate_nightly": 15710,
    "estimate_source": "observed",
    "band": "stretch"
   },
@@ -400,7 +383,7 @@
    "name": "Tanjung Rhu Resort Langkawi",
    "type": "Hotel",
    "rating": 4.5,
-   "reviews": 2297,
+   "reviews": 2298,
    "url": "https://www.tripadvisor.com/Hotel_Review-g3239580-d315644-Reviews-Tanjung_Rhu_Resort_Langkawi-Ayer_Hangat_Langkawi_Langkawi_District_Kedah.html",
    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/7d/60/6c/tanjung-rhu-resort.jpg",
    "lat": 6.454509,
@@ -409,7 +392,7 @@
     "All inclusive",
     "Breakfast included"
    ],
-   "estimate_nightly": 16670,
+   "estimate_nightly": 19277,
    "estimate_source": "observed",
    "band": "stretch"
   },
@@ -427,7 +410,7 @@
    "probe_nightly": 7290,
    "probed_at": "2026-11-14T13:01:20+00:00",
    "estimate_nightly": 7290,
-   "estimate_source": "probe",
+   "estimate_source": "observed",
    "band": "in_budget"
   },
   {
@@ -443,24 +426,7 @@
    "labels": [],
    "probe_nightly": 9080,
    "probed_at": "2026-11-14T13:01:20+00:00",
-   "estimate_nightly": 9080,
-   "estimate_source": "probe",
-   "band": "in_budget"
-  },
-  {
-   "key": "g298283-d23283788",
-   "name": "Mercure Langkawi Pantai Cenang",
-   "type": "Hotel",
-   "rating": 4.6,
-   "reviews": 372,
-   "url": "https://www.tripadvisor.com/Hotel_Review-g298283-d23283788-Reviews-Mercure_Langkawi_Pantai_Cenang-Langkawi_Langkawi_District_Kedah.html",
-   "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/7b/28/75/hotel-view-at-night.jpg",
-   "lat": 6.290885,
-   "lng": 99.72927,
-   "labels": [
-    "Breakfast included"
-   ],
-   "estimate_nightly": 11676,
+   "estimate_nightly": 9054,
    "estimate_source": "observed",
    "band": "in_budget"
   },
@@ -486,7 +452,7 @@
    "name": "Wings by Croske Resort Langkawi",
    "type": "Hotel",
    "rating": 4.5,
-   "reviews": 623,
+   "reviews": 626,
    "url": "https://www.tripadvisor.com/Hotel_Review-g298283-d6395353-Reviews-Wings_by_Croske_Resort_Langkawi-Langkawi_Langkawi_District_Kedah.html",
    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/96/3c/2a/wings-by-croske-resort.jpg",
    "lat": 6.340403,
@@ -494,7 +460,7 @@
    "labels": [
     "Breakfast included"
    ],
-   "estimate_nightly": 5297,
+   "estimate_nightly": 6128,
    "estimate_source": "observed",
    "band": "in_budget"
   },
@@ -503,15 +469,15 @@
    "name": "The Smith House",
    "type": "Hotel",
    "rating": 4.6,
-   "reviews": 319,
+   "reviews": 321,
    "url": "https://www.tripadvisor.com/Hotel_Review-g2699668-d10788510-Reviews-The_Smith_House-Padang_Mat_Sirat_Langkawi_Langkawi_District_Kedah.html",
-   "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/05/76/06/rooftop-swimming-pool.jpg",
+   "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/cd/b6/4a/junior-smith-suite.jpg",
    "lat": 6.350211,
    "lng": 99.73075,
    "labels": [
     "Breakfast included"
    ],
-   "estimate_nightly": 7203,
+   "estimate_nightly": 7019,
    "estimate_source": "observed",
    "band": "in_budget"
   },
@@ -527,7 +493,7 @@
    "lng": 99.73329,
    "labels": [],
    "probe_nightly": null,
-   "probed_at": "2026-11-14T13:01:37+00:00",
+   "probed_at": "2026-11-22T12:30:48+00:00",
    "band": null
   },
   {
@@ -550,17 +516,34 @@
    "band": "too_pricey"
   },
   {
+   "key": "g298283-d23283788",
+   "name": "Mercure Langkawi Pantai Cenang",
+   "type": "Hotel",
+   "rating": 4.5,
+   "reviews": 376,
+   "url": "https://www.tripadvisor.com/Hotel_Review-g298283-d23283788-Reviews-Mercure_Langkawi_Pantai_Cenang-Langkawi_Langkawi_District_Kedah.html",
+   "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/7b/28/75/hotel-view-at-night.jpg",
+   "lat": 6.290885,
+   "lng": 99.72927,
+   "labels": [
+    "Breakfast included"
+   ],
+   "estimate_nightly": 13530,
+   "estimate_source": "observed",
+   "band": "in_budget"
+  },
+  {
    "key": "g298283-d557775",
    "name": "Rebak Island Resort & Marina",
    "type": "Resort",
    "rating": 4.3,
-   "reviews": 2805,
+   "reviews": 2808,
    "url": "https://www.tripadvisor.com/Hotel_Review-g298283-d557775-Reviews-Rebak_Island_Resort_Marina-Langkawi_Langkawi_District_Kedah.html",
    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/7d/c1/54/rebak-island-resort-marina.jpg",
    "lat": 6.294135,
    "lng": 99.70044,
    "labels": [],
-   "estimate_nightly": 14246,
+   "estimate_nightly": 12698,
    "estimate_source": "observed",
    "band": "in_budget"
   },
@@ -577,8 +560,8 @@
    "labels": [],
    "probe_nightly": 6704,
    "probed_at": "2026-11-14T13:01:33+00:00",
-   "estimate_nightly": 6704,
-   "estimate_source": "probe",
+   "estimate_nightly": 4824,
+   "estimate_source": "observed",
    "band": "in_budget"
   },
   {
@@ -594,8 +577,8 @@
    "labels": [],
    "probe_nightly": 4239,
    "probed_at": "2026-11-14T13:01:36+00:00",
-   "estimate_nightly": 4239,
-   "estimate_source": "probe",
+   "estimate_nightly": 4584,
+   "estimate_source": "observed",
    "band": "in_budget"
   }
  ]
